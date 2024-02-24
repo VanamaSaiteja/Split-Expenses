@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Split-Expenses/static/js/main.dbe24c46.js",
+    "static/js/592.6239503c.chunk.js": "/Split-Expenses/static/js/592.6239503c.chunk.js",
+    "index.html": "/Split-Expenses/index.html",
+    "main.dbe24c46.js.map": "/Split-Expenses/static/js/main.dbe24c46.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dbe24c46.js"
+  ]
+}

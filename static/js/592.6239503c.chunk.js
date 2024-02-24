@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknew=self.webpackChunknew||[]).push([[592],{6592:e=>{e.exports=JSON.parse('[{"symbol":"\u20b9","name":"Indian Rupee","symbol_native":"\u20b9","decimal_digits":2,"rounding":0,"code":"INR","name_plural":"Indian rupees"}]')}}]);
