@@ -54,8 +54,7 @@ const Header = () => {
                     >
                         <Grid item>
                             <IconButton
-                                href="https://github.com/swport/payment-split"
-                                target="_blank"
+                                href="https://github.com/VanamaSaiteja/Split-Expenses"
                             >
                                 <GitHubIcon />
                             </IconButton>
