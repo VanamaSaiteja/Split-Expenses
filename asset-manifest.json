@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/Split-Expenses/static/js/main.9c7e987f.js",
+    "main.js": "/Split-Expenses/static/js/main.6e6b06d4.js",
     "static/js/592.6239503c.chunk.js": "/Split-Expenses/static/js/592.6239503c.chunk.js",
     "index.html": "/Split-Expenses/index.html",
-    "main.9c7e987f.js.map": "/Split-Expenses/static/js/main.9c7e987f.js.map"
+    "main.6e6b06d4.js.map": "/Split-Expenses/static/js/main.6e6b06d4.js.map"
   },
   "entrypoints": [
-    "static/js/main.9c7e987f.js"
+    "static/js/main.6e6b06d4.js"
   ]
 }
