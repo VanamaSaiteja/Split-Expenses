@@ -1,4 +1,4 @@
-**#Link for the app : 
+Link for the app : 
 
 https://vanamasaiteja.github.io/Split-Expenses/
 
